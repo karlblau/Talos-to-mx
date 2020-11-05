@@ -25,4 +25,4 @@ It will then connect to Talos and download the the blacklist. Add a new rule wit
 # Note:
 1. The Talos Blacklist is "LONG", at writing rougly 800 /32 prefixes, this creates a werry long rule in the dashboard GUI
 2. During the implementation i found out the hardway that Talos are enforcing a ratelimiting with source ban if you request the blacklist to offen, Dont run this script more then one's an every hour. 
-3. Security is crucial. DO NOT run this in a production enviroment without trying it in a LAB enviroment!
+3. Security is crucial. DO NOT run this in a production enviroment without first trying it in a LAB enviroment!
