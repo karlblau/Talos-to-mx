@@ -10,6 +10,8 @@ requests
 re
 meraki
 
+(Meraki python Library can be found here on Github)
+
 # Note:
 Dont run this script more then one's an every hour. 
 During the implementation i found out the hardway that Talos are enforcing a ratelimiting with source ban if you request the blacklist to offen.
