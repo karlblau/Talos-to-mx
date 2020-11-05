@@ -13,7 +13,7 @@ meraki
 (Meraki python Library can be found here on Github)
 
 # Runtime:
-
+Before launching edit the API_KEY and network_id variables.
 API_KEY = "REPLACE WITH YOUR DASHBOARD APIKEY"
 network_id = "REPLACE WITH THE NETWORK ID YOU WISH TO UPDATE THE RULES ON"
 
